@@ -1,0 +1,126 @@
+{
+  "sections": [
+    {
+      "section_id": "1234",
+      "type": "hero_section",
+      "layout": "center",
+      "metaData": {
+        "title": "React Framework for Production",
+        "subtitle": "Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.",
+        "backgroundImage": "https://images.rawpixel.com/image_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3RwMjU2LWJhY2tncm91bmQtMDgteC5qcGc.jpg",
+        "ctaButtons": [
+          {
+            "theme": "primary",
+            "variant": "default",
+            "text": "Get Started",
+            "size": "large",
+            "url": "",
+            "icon": ""
+          },
+          {
+            "theme": "primary",
+            "variant": "outline",
+            "text": "Read Docs",
+            "size": "large",
+            "url": "",
+            "icon": ""
+          }
+        ]
+      }
+    },
+    {
+      "section_id": "5678",
+      "type": "hero_section",
+      "layout": "left",
+      "metaData": {
+        "title": "React Framework for Production",
+        "subtitle": "Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features.",
+        "backgroundImage": "https://images.rawpixel.com/image_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3RwMjU2LWJhY2tncm91bmQtMDgteC5qcGc.jpg",
+        "ctaButtons": [
+          {
+            "type": "primary",
+            "variant": "default",
+            "size": "large",
+            "text": "Get Started",
+            "url": "",
+            "icon": ""
+          },
+          {
+            "type": "primary",
+            "variant": "outline",
+            "size": "large",
+            "text": "Read Docs",
+            "url": "",
+            "icon": ""
+          }
+        ]
+      }
+    },
+    {
+      "section_id": "5678",
+      "type": "feature_cards_section",
+      "layout": "left",
+      "metaData": {
+        "title": "React Framework for Production",
+        "subtitle": "Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features.",
+        "backgroundImage": "https://images.rawpixel.com/image_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3RwMjU2LWJhY2tncm91bmQtMDgteC5qcGc.jpg",
+        "featureCards": [
+          {
+            "variant": "default",
+            "metaData": {
+              "title": "Discover How Our Product Works",
+              "description": "Our product simplifies the process of showcasing your projects and blog posts",
+              "image": "https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/object_cube.png",
+              "ctaButtons": [
+                {
+                  "theme": "primary",
+                  "variant": "outline",
+                  "text": "Learn More",
+                  "size": "small",
+                  "url": "",
+                  "icon": ""
+                }
+              ]
+            }
+          },
+          {
+            "variant": "default",
+            "metaData": {
+              "title": "Discover How Our Product Works",
+              "description": "Our product simplifies the process of showcasing your projects and blog posts",
+              "image": "https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/object_cube.png",
+              "ctaButtons": [
+                {
+                  "theme": "primary",
+                  "variant": "outline",
+                  "text": "Learn More",
+                  "size": "small",
+                  "url": "",
+                  "icon": ""
+                }
+              ]
+            }
+          },
+          {
+            "variant": "default",
+            "metaData": {
+              "title": "Discover How Our Product Works",
+              "description": "Our product simplifies the process of showcasing your projects and blog posts",
+              "image": "https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/object_cube.png",
+              "ctaButtons": [
+                {
+                  "theme": "primary",
+                  "variant": "outline",
+                  "text": "Learn More",
+                  "size": "small",
+                  "url": "",
+                  "icon": ""
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
